@@ -1,1 +1,1 @@
-# Sudoku_Solver-using-GUI
+# Sudoku_Solver
